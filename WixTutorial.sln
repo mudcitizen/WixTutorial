@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "WixTutorial", "WixTutorial\WixTutorial.wixproj", "{F7E571C7-FCFA-4E5E-9D7B-0F38894CC0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E571C7-FCFA-4E5E-9D7B-0F38894CC0B6}.Debug|x86.ActiveCfg = Debug|x86
+		{F7E571C7-FCFA-4E5E-9D7B-0F38894CC0B6}.Debug|x86.Build.0 = Debug|x86
+		{F7E571C7-FCFA-4E5E-9D7B-0F38894CC0B6}.Release|x86.ActiveCfg = Release|x86
+		{F7E571C7-FCFA-4E5E-9D7B-0F38894CC0B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2075DAE0-1360-4E29-96D3-F219BAF97CE4}
+	EndGlobalSection
+EndGlobal
